@@ -1,0 +1,48 @@
+# Consciousness: The most debated definition in philosophy
+While consciousness is something that all the beings intuitively possess, it is not a property that has a fixed definition or boundary, and rightly so. This property of living beings is highly subjective and tries to enclose a wide range of causes and effects of the Mind. Also, the drive of Human Mind to assume that it is something special also makes people ignore the broader perspective and society tends to believe that Consciousness is something restricted to them and cannot be replicated.
+Although some attempts have been made to describe consciousness, they are unable to be realistically proven outside of theoretical models. The reason will be made clear later on.
+In order to create a model that can truly be called conscious, we first need to define the parameters that we will be trying to clear.
+- Subjective Experience (Qualia) :	The masses tend to describe Consciousness as a feeling of experiencing the physical properties of the things we observe. Like the 'redness' and 'roundness' of the apple. This is often reffered to as Qualia.
+- Self-Awareness :	Another view on Consciousness relies on having the ability to sense self as being seperate from the Environment and Other beings. This is also refered to as individuality.
+- Intentionality :	This is an ability of living beings to be able to direct our thoughts and actions for one specific function or in a general direction. It can also be refered to as having a drive for doing any task.
+- Self thoughts (Monologuing) :	This is something that is likely possessed only by Humans. It is the ability for your thoughts and intentions to be continuously modified and debated on inside the head. This the reason for our ability to understand the world in such a clear and deterministic way.
+- Feeling Emotions :	 While not having a direct connection to consciousness, it is believed that having a feeling of any physical change is a part of consciousness. Under that premise, Emotions too are changes due to physical stimuli.
+Although some researchers argue that an AI is physically unable to experience these properties, some also acknowledge the fact that consciousness is an emergent behaviour of underlying complex chemical and electrical mechanisms. Thus, replicating the exact functional system should give us the capability to make an AI truly experience Consciousness as we described it.
+Some of these accounts opposing and favouring the possibility of consciousness in a digital being are as follows:
+
+#### Opposing Arguments
+- The chinese Room -by John Searle
+	- Imagine we put a guy in a Closed Room. He doesnt speak a word of Chinese. We slide a piece of paper under the door with chinese writing on it. The guy has a rule book that he can use to give certain output based on each input. He writes the response according to rule book and slides it back to us. To us the guy is responding perfectly so we can assume he understands it. But in reality he doesnt have a clue about the texts and is merely copying words.
+	- This analogy is commonly given as an argument that our current AI model is just 'that guy in the chinese room' and can never be different.
+	- Counter : The argument grinds to a hault when we stop to ask what understanding actually is in human context. A child does not know anything at birth. All we can do is to teach them the language we know, the way we communicate. If you think about it, all that we have ever done is to gain knowledge of what and how to speak in certain situations. We try to understand the situation and try to use certain words based on our memory of other people talking. This is the way we learned to translate our intentions in the real world. So ultimately speaking, we can assume that we are all that guy in the chinese room but with the experience of the real world, as we all can understand the input, look up the right words, and respond back. This is what understanding actually is. The only thing that guy won't be able to do is speak chinese as that was never told to him. And he also won't be able to pick the right words for specific real world situations because he doesn't know what to start the statements with in those situations, as he has never been before.
+- Orch-OR -by Sir George Penrose and Dr. Stuart Hameroff
+	- This is a theory that suggests that the human consciousness actually comes from localised stable quantum states inside the microtubules of our neurons.
+	- This theory has actually already been severely challenged. Like one argument by Tegmark, in which calculated that a quantum state would collapse in merely about $10^-13$ seconds not merely enough time for them to interact with neural signals. There is still a point in discussing it.
+	- Counter : Even if there is something deeply rooted in the biological hardware that our technology can't hope to ever imitate, we don't even have to imitate it. All the inputs and outputs in our Human brain are simply just neural signals and thus, whatever outputs we hope to see should come in the form of signals, thus, all the internal intricacies need to translate to signals. Meening that any sort of aspect that is alien to us in Human brain needs to be some sort of modifier to the signal to actually be acknowledged in the actual output. And since we are not trying to create a human out of silicon, we can simply acknowledge those modifiers in our model as another mathematical weight or adjustment, whether it represents quantum states or quantum entanglement, can all be resolved into mathematic analogies.
+
+#### Supporting Argument
+-Integrated Information Theory -by Sir Giulio Tononi
+	- 'Consciousness exists for the system itself, not for an outside observer. For this to happen, the system must have Intrinsic Casual Power:the way the parts of the system interact must specify the system's own state. Composition dictates that consciousness is not a single, monolithic 'pixel' of experience, but a structured whole. Each part of the architecture—each sub-network and each connection—must contribute to the way the system constrains its own past and future. If a system is just a feed-forward chain of symbols (like a standard computer), it exists only for the user. But if the architecture is re-entrant and integrated, the system begins to exist for itself.'- Derived from "Integrated Information Theory: From Axioms to Postulates"
+
+We might not know as to what consciousness is, but functional equivalence strongly suggests the possibility of consciousness. And thus, we must start to work towards that goal.
+
+### What Makes Humans conscious?
+The consciousness of a Human System is a result of not only the brain but also the body that feeds the brain the constant source of inputs essentially forcing the brain to be aware of its surroundings.
+The way we can mimic this setup is by giving the theorized AI model a body that can act and sense the way our body does and with similar constraints. This body is what we will call the mortal body constraint. Giving the AI a Mortal Body will result in solving most of our problems regarding the consciousness debate. We may talk about it later.
+Our motive right now is to recognize the fact that while the Mortal Body is an important piece in creating an Intelligent being, It is also not possible without having a perfect brain.
+The brain (and spinal cord) is a complex system of only a few types of cells. The most important type out of them is the neuron. The neuron is one of the few cells in body that has the ability to generate its own signals and transmit selected signals through it. Resultant interactions in the network of these cells is what governs all our actions and the way we think.
+Some of the properties of neurons and the supporting cells are as follows:
+- Recieving Signals
+- Distributing Signals
+- Generating Signals
+- Modifying Signals (Amplifying and Weakening)
+- Compare and Accumulate Signals
+- Delay Signals
+The neurons that we currently use in our neural networks comprise of nodes and pathways that can perform the following functions:
+- Recieving Signals
+- Distributing Signals
+- Modifying Signals(Any Mathematical Function the situation desires)
+As we can see, the artificial neurons are unable to perform all the functions that a Biological Neurons can. This gives us some real limitations in making our model since we are trying to make the setup identical to biological one.
+This lack of functions is not due to lack of knowledge, it is due to the lack of right hardware. Our current Hardware of choice for AI is GPU, which is known for its capabilities in batch processes. But that is the aspect that is unable to provide us with valid inteligent models.
+Since GPUs use Batch processing, they rely on bulk synchronized inputs. This eliminates the ability to introduce delays. Another aspect of biological neurons is that they can attach to other neurons in a 3 dimensional network. This means that those neurons can connect to other neurons that would be backward in the flow or maybe forward in the flow. That is similar to introducing Back-wiring and layer-jumping capabilities. This complicates things with our hardware even further. Introducing Layer-jumping and Back-wiring introduce signal loops effectively breaking the batches into smaller chunks in the Model this would mean that Batch processing would not be able to solve this Model. The batch processing, the main strong point of a GPU, is the very thing that is ruining further development in AI.
+In order to create a model that performs like a Human, We Need to make a brain that is similar to a human and a body that is similar to a human. This is the core idea behind this Thesis.
