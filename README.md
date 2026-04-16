@@ -1,8 +1,15 @@
-# Embodied Asynchronous Multi-Tier AGI Architecture
+# Embodied Asynchronous Multi-Tier AGI Architecture v1.0.0
 This is a new AI architecture that I developed to prove that the current AI architectures may never be able to imitate human intelligence as we desire. This Repository states the exact model, technical requirements and the theories behind the conclusions of this thesis.
 
 ## Introduction
 The goal of this thesis is to create an AI model that is theoretically capable of imitating human intelligence in every aspect. This theory relies heavily on philosophical, biological, and Engineering grounds. The core result of this theory is the Embodied-Asynchronous-Multi-Tier-AGI-Architecture. The technical and theoretical limitations this model will face are also mentioned in this documentation, along with references to arguments that support the credibility of this architecture.
+
+## Core Contributions
+- Asynchronous Sparse Mesh (ASM) Architecture
+- Multi-Tier Learning System
+- Intelligence through Embodiment
+- Emotions integration based on EMSEP
+- Evolvable Intelligence Framework
 
 ## Mortal Body
 This is a core requirement for the emergence of consciousness in an artificial being. This idea is backed by many theories.
@@ -233,3 +240,9 @@ At this point the issue becomes less biological and mechanical but more philosop
 - This architecture is built as the first model to bridge the gap between AI and Human Intelligence.
 - Each Tier is a computational behemoth and thus, they all require seperate hardware to run on. This includes; seperate chipsets and memory.
 - This architecture is meant to give direction to future research rather than immediate implementation. Although, small scale models are indeed testable on current hardware, but we cant test for the credibility of the theory until the right hardware arrives.
+
+## Future Work
+- Add more Philosophical Arguments
+- Add diagrams and flowcharts to clarify ideas.
+- Refine theory to evolve better mechanisms in place of Tier 3 Mapping
+- Make A proof-of-concept model with normal hardware
